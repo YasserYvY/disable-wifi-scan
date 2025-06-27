@@ -1,0 +1,7 @@
+id=disable-wifi-scan
+name=Disable Wifi Scan
+description=Stops apps from scanning Wi-Fi networks when Wi-Fi is off
+author=YasserYvY
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/disable-wifi-scan
